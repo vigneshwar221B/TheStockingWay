@@ -1,4 +1,5 @@
 site_name: The stocking way
+site_url: https://vigneshwar221b.github.io/TheStockingWay/
 theme:
   name: material
 nav:
