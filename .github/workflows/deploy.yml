@@ -1,39 +1,29 @@
-name: Deploy Jekyll Site to GitHub Pages
+name: Deploy MkDocs Site to GitHub Pages
 
 on:
   push:
     branches:
-      - main # Change this if you're using a different branch
+      - main
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step 2: Setup Ruby environment
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          ruby-version: 3.1 # Use the version of Ruby supported by GitHub Pages
-          bundler-cache: true
+          python-version: 3.x
 
-      # Step 3: Install dependencies
-      - name: Install Jekyll Dependencies
+      - name: Install MkDocs and Material theme
         run: |
-          bundle install
+          pip install mkdocs mkdocs-material
 
-      # Step 4: Build the site
-      - name: Build Jekyll Site
+      - name: Build and Deploy
         run: |
-          bundle exec jekyll build
-
-      # Step 5: Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

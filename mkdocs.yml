@@ -1,0 +1,7 @@
+site_name: The stocking way
+theme:
+  name: material
+nav:
+  - Home: 30_Day_Guide.md
+  - Yuri: Learn_Japanese_With_Yuri.md
+  - FAQ: FAQ.md

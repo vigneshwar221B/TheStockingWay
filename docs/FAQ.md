@@ -1,5 +1,3 @@
-[Home](README.md) | [30 day guide](30_Day_Guide.md) | [Learn Japanese With Yuri](Learn_Japanese_With_Yuri.md) | [FAQ](FAQ.md)
-
 # Frequently Asked Questions 
 
 Frequently asked questions about learning Japanese answered in an efficient manner.
