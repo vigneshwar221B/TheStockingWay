@@ -1,8 +1,3 @@
 theme: jekyll-theme-cayman
 title: My Site
 description: The Stocking Way
-
-exclude:
-  - _site
-  - Gemfile
-  - Gemfile.lock
