@@ -1,3 +1,5 @@
+[Home](README.md) | [30 day guide](30_Day_Guide.md) | [Learn Japanese With Yuri](Learn_Japanese_With_Yuri.md) | [FAQ](FAQ.md)
+
 This is where beginners should start from. 
 
 1. Learn hiragana, should take 30 mins 

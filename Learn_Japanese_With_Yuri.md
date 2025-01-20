@@ -1,3 +1,5 @@
+[Home](README.md) | [30 day guide](30_Day_Guide.md) | [Learn Japanese With Yuri](Learn_Japanese_With_Yuri.md) | [FAQ](FAQ.md)
+
 ### Learning Japanese Through Yuri: A Passion-Driven Path to Fluency
 
 When it comes to learning Japanese, efficiency and consistency are key. While traditional methods and guides, like the 30-day programs often suggested by experts, are structured and reliable, they might lack the spark that keeps learners genuinely engaged over the long haul. Enter yuri erotica: a highly unconventional yet surprisingly effective way to master Japanese.
