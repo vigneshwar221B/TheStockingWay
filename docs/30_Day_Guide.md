@@ -1,4 +1,4 @@
-This is where beginners should start from. 
+This is where beginners should start from. Follow this guide day by day.
 
 1. Learn hiragana, should take 30 mins 
 2. Kaishi + 100 hours of imabi
@@ -30,3 +30,9 @@ This is where beginners should start from.
 28. Kaishi +23 hours immersion
 29. Kaishi +23 hours immersion
 30. Kaishi + 1 hour immersion + harass women in grocery store
+
+# What should I do after 30 Day Guide?
+
+Read yuri. Read heaps of yuri. Yuri novels, yuri porn, yuri doujin, yuri asmr, yuri manga, yuri books, yuri anime, yuri fanfiction. Yuri is the one and only true path to fluency.
+
+がうがう
