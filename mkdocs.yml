@@ -4,5 +4,6 @@ theme:
   name: material
 nav:
   - Home: 30_Day_Guide.md
+  - Theory: Language_Learning_Theory.md
   - Yuri: Learn_Japanese_With_Yuri.md
   - FAQ: FAQ.md
